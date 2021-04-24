@@ -1,1 +1,1 @@
-# MATLAB-Audio-PLayer
+# MATLAB-Audio-Player
